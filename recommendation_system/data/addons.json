@@ -1,0 +1,22 @@
+[
+    {
+        "id": "addon-1",
+        "name": "Garlic Bread",
+        "price": 3.50
+    },
+    {
+        "id": "addon-2",
+        "name": "Coke",
+        "price": 2.00
+    },
+    {
+        "id": "addon-3",
+        "name": "Extra Cheese",
+        "price": 1.50
+    },
+    {
+        "id": "addon-4",
+        "name": "Brownie",
+        "price": 4.00
+    }
+]
